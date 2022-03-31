@@ -31,5 +31,8 @@ flask run
 </pre>
 <br/>
 
-<b>Step 5.</b> Running on http ://127.0.0.1:5000, Copy the path with http: ...... from cmd <br/>
-Open it the Web Browser
+<b>Step 5.</b> Running on http : //127.0.0.1:5000, Copy the path with http: ...... from cmd <br/>
+<b>Open it the Web Browser</b>
+<br/><br/>
+<b>Note: Upload the Faces only.</b> 
+<br/><br/>
