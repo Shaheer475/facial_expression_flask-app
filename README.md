@@ -23,8 +23,14 @@ or
 pip install -r requirements.txt
 </pre>
 <br/>
-<b>Step 4.</b> Run the commands 
+<b>Step 4.</b> Run the commands
+<pre>
+python app.py
+or
+flask run
+</pre>
 <br/>
+
 <b>Step 6.</b> Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders. <br/>
 \TFODCourse\Tensorflow\workspace\images\train<br />
 \TFODCourse\Tensorflow\workspace\images\test
