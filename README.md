@@ -19,7 +19,7 @@ conda activate FE_APP
 <b>Step 3.</b> Install dependencies
 <pre>
 pip install -r requirement.txt
-or
+or (do one of these two commands)
 pip install -r requirements.txt
 </pre>
 <br/>
