@@ -11,7 +11,6 @@
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
-<p>#</p>
 conda env create -f requirements_env.yml
 conda activate FE_APP
 </pre> 
