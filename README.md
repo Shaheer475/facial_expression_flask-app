@@ -7,11 +7,13 @@
 
 ## Steps
 <br />
-<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
+<b>Step 1.</b> Clone this repository: https://github.com/Shaheer475/facial_expression_flask-app.git
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
-python -m venv tfod
+<p>#</p>
+conda env create -f requirements_env.yml
+conda activate FE_APP
 </pre> 
 <br/>
 <b>Step 3.</b> Activate your virtual environment
