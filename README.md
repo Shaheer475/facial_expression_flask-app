@@ -1,8 +1,9 @@
 # facial_expression_flask-app
 
 
-<p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. This accompanies the Tensorflow Object Detection course on my <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
-<img src="https://i.imgur.com/H3tUyKM.png">
+<p>This set of repository provides a complete set to train a facial expression deeplearning model and deploy it with Flask.. 
+<img src="https://drive.google.com/drive/folders/1wgv4nqUVE1BpFeI5pxDKmcsRXerwQVyh">
+<img src="https://drive.google.com/drive/folders/1wgv4nqUVE1BpFeI5pxDKmcsRXerwQVyh">
 
 ## Steps
 <br />
