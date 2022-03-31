@@ -31,5 +31,5 @@ flask run
 </pre>
 <br/>
 
-<b>Step 5.</b> Running on http://127.0.0.1:5000, Copy the path with http: ...... <br/>
+<b>Step 5.</b> Running on http ://127.0.0.1:5000, Copy the path with http: ...... from cmd <br/>
 Open it the Web Browser
