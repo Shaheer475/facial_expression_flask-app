@@ -32,7 +32,7 @@ flask run
 <br/>
 
 <b>Step 5.</b> Running on http : //127.0.0.1:5000, Copy the path with http: ...... from cmd <br/>
-<b>Open it the Web Browser</b>
+<b>Step 6.</b>Open that copied ip address in Web Browser</b>
 <br/><br/>
 <b>Note: Upload the Faces only.</b> 
 <br/><br/>
